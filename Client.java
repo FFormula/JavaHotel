@@ -10,11 +10,6 @@ public class Client
 		// 
 	}
 	
-	public Client (int id, String name)
-	{
-		// 
-	}
-
 	public Client (String name)
 	{
 		//
@@ -27,17 +22,17 @@ public class Client
 		return "";
 	}
 	
-	public static Client find (String name)
-	{
-		//
-		return null;		
-	}
-
 	public static ArrayList<Client> getList() 
 	{
 		ArrayList<Client> list = new ArrayList<>();
 		//
 		return list;
+	}
+
+	public static Client find (String name)
+	{
+		//
+		return null;		
 	}
 
 	public void add ()
