@@ -4,7 +4,7 @@ public class DB
 {
 	public final String CONNECTS = "jdbc:mysql://localhost/HOTEL";
 	public final String USERNAME = "root";
-	public final String PASSWORD = "";
+	public final String PASSWORD = "root";
 	
 	private Connection connection;
 	
@@ -15,10 +15,10 @@ public class DB
 
 	private DB ()
 	{
-		// kodas
+		// код
 	}
 
-	// singleton laukas
+	// поле для singleton 
 
-	// singleton metodas
+	// метод для singleton
 }

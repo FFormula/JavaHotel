@@ -1,9 +1,8 @@
 import java.util.ArrayList;
-import java.sql.*;
 
 public class Client 
 {
-	// laukai
+	// поля
 	
 	public Client (int id, String name, int room_id)
 	{

@@ -1,9 +1,7 @@
-import java.util.ArrayList;
-import java.sql.*;
 
 public class Room 
 {
-	// laukai
+	// поля
 
 	public Room (int id, String name, int beds)
 	{
