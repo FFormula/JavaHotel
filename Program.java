@@ -54,7 +54,7 @@ public class Program
 		System.out.println("Введите имя клиента: ");
 		System.out.println("ОШИБКА. Клиент не найден.");
 		System.out.println("ОШИБКА. Этот клиент уже прописан.");
-		System.out.println("Введите название команты: ");
+		System.out.println("Введите название комнаты: ");
 		System.out.println("ОШИБКА. Комната не найдена.");
 		System.out.println("ОШИБКА. В этой комнате нет свободных мест.");
 		System.out.println("Клиент прописан.");
